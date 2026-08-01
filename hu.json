@@ -1295,6 +1295,8 @@
   "maintenanceBody": "Jelenleg karbantartást végzünk. Kérjük, nézz vissza kicsit később.",
   "emailGreeting": "Kedves {name},",
   "emailGreetingCasual": "Szia {name}!",
+  "emailInvalidRecipientDm": "Szia {name}! Az általunk használt email címed ({email}) érvénytelennek tűnik, ezért nem tudtuk kézbesíteni az üzenetet. Frissítsd az email címed Discordon, majd jelentkezz ki és vissza Discorddal a weboldalon. Ha segítség kell, nyiss ticketet a Discord szerveren.",
+  "emailFallbackUser": "felhasználó",
   "emailRegardsTeam": "Üdvözlettel,<br/>HSR Csapat",
   "emailRegardsTraining": "Üdvözlettel,<br/>HSR Képzési Csapat",
   "emailAdminPanelButton": "Admin panel megnyitása",
