@@ -1294,6 +1294,8 @@
   "maintenanceBody": "We're currently performing maintenance. Please check back shortly.",
   "emailGreeting": "Dear {name},",
   "emailGreetingCasual": "Hi {name}!",
+  "emailInvalidRecipientDm": "Hi {name}! The email address we have for you ({email}) appears to be invalid, so we couldn't deliver the message. Update your email on Discord, then log out and back in with Discord on the website. If you need help, open a ticket on the Discord server.",
+  "emailFallbackUser": "user",
   "emailRegardsTeam": "Best regards,<br/>HSR Team",
   "emailRegardsTraining": "Best regards,<br/>HSR Training Team",
   "emailAdminPanelButton": "Open admin panel",
