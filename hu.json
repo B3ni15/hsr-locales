@@ -1736,5 +1736,17 @@
   "botTicketSetupResult": "✅ Tiketrendszer beállítva! Az embed elküldve ide: <#{channel}>{category}{staff}.",
   "botTicketSetupCategorySuffix": " — kategória: <#{category}>",
   "botTicketSetupStaffSuffix": " — staff rang: <@&{role}>",
-  "botTicketSetupFailed": "❌ Hiba történt a tiketrendszer beállítása közben."
+  "botTicketSetupFailed": "❌ Hiba történt a tiketrendszer beállítása közben.",
+  "botErrUnknownSub": "❌ Ismeretlen alparancs.",
+  "botRoleErrMissing": "❌ Adj meg egy felhasználót és egy rangot.",
+  "botRoleAddFailed": "❌ Nem sikerült hozzáadni a rangot. Ellenőrizd, hogy a bot rangja magasabban van-e, mint a céllrang.",
+  "botRoleAdded": "✅ **{role}** hozzáadva: **{user}**.",
+  "botRoleRemoveFailed": "❌ Nem sikerült eltávolítani a rangot. Ellenőrizd, hogy a bot rangja magasabban van-e, mint a céllrang.",
+  "botRoleRemoved": "✅ **{role}** eltávolítva innen: **{user}**.",
+  "botRoleError": "❌ Hiba történt a rang kezelése közben.",
+  "botCheckRolesNoRole": "❌ Adj meg egy rangot.",
+  "botCheckRolesNoneFound": "✅ Nem található tag ezzel a ranggal.",
+  "botCheckRolesAllRegistered": "✅ Mind a **{count}** ezzel a ranggal rendelkező tag regisztrálva van a weboldalon.",
+  "botCheckRolesResult": "✅ Kész! **{count}** nem regisztrált tag visszaállítva Member szintre:\n{list}\n\nAdminok értesítve emailben.",
+  "botCheckRolesError": "❌ Hiba történt a rang ellenőrzés során."
 }

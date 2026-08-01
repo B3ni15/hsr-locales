@@ -1736,5 +1736,17 @@
   "botTicketSetupResult": "✅ Ticket system configured! Embed sent to <#{channel}>{category}{staff}.",
   "botTicketSetupCategorySuffix": " — category: <#{category}>",
   "botTicketSetupStaffSuffix": " — staff role: <@&{role}>",
-  "botTicketSetupFailed": "❌ An error occurred while setting up the ticket system."
+  "botTicketSetupFailed": "❌ An error occurred while setting up the ticket system.",
+  "botErrUnknownSub": "❌ Unknown subcommand.",
+  "botRoleErrMissing": "❌ Please specify a user and a role.",
+  "botRoleAddFailed": "❌ Failed to add role. Make sure the bot's role is above the target role.",
+  "botRoleAdded": "✅ Added **{role}** to **{user}**.",
+  "botRoleRemoveFailed": "❌ Failed to remove role. Make sure the bot's role is above the target role.",
+  "botRoleRemoved": "✅ Removed **{role}** from **{user}**.",
+  "botRoleError": "❌ An error occurred while managing the role.",
+  "botCheckRolesNoRole": "❌ Please specify a role.",
+  "botCheckRolesNoneFound": "✅ No members found with that role.",
+  "botCheckRolesAllRegistered": "✅ All **{count}** members with that role are registered on the web.",
+  "botCheckRolesResult": "✅ Done! **{count}** unregistered members were reset to Member:\n{list}\n\nAdmins notified by email.",
+  "botCheckRolesError": "❌ An error occurred during the role check."
 }
