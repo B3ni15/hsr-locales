@@ -1638,5 +1638,14 @@
   "botNextLevelValue": "On further violation: {label}",
   "botFieldAppeal": "Appeal",
   "botAppealHint": "If you think this decision is wrong, open a ticket on the server.",
-  "botModerationFooterPoints": "HSR moderation • points expire after {days} days"
+  "botModerationFooterPoints": "HSR moderation • points expire after {days} days",
+  "botTicketClosedTitle": "🔒 Ticket Closed",
+  "botTicketClosedByStaffDesc": "Closed by **{name}**.\n\nThis channel will be automatically deleted in 5 minutes.\n\nTranscript: {url}",
+  "botTicketClosedResolvedDesc": "Closed after you confirmed the issue was resolved.\n\nThis channel will be automatically deleted in 5 minutes.\n\nTranscript: {url}",
+  "botReopenButtonLabel": "🔓 Reopen",
+  "botTicketClaimedTitle": "👋 Ticket claimed",
+  "botTicketClaimedDesc": "**{name}** has claimed this ticket and will respond shortly.",
+  "botTicketOpenedClaimedDesc": "**{owner}**'s ticket\n\nClaimed by **{claimer}**",
+  "botTicketReopenedTitle": "🎫 Ticket Reopened",
+  "botTicketReopenedDesc": "**{owner}**'s ticket\n\nReopened by **{name}**"
 }

@@ -1638,5 +1638,14 @@
   "botNextLevelValue": "További szabálysértés esetén: {label}",
   "botFieldAppeal": "Fellebbezés",
   "botAppealHint": "Ha szerinted hibás a döntés, nyiss egy ticketet a szerveren.",
-  "botModerationFooterPoints": "HSR moderáció • a pontok {days} nap után lejárnak"
+  "botModerationFooterPoints": "HSR moderáció • a pontok {days} nap után lejárnak",
+  "botTicketClosedTitle": "🔒 Tiket lezárva",
+  "botTicketClosedByStaffDesc": "Lezárta: **{name}**.\n\nEz a csatorna automatikusan törlődik 5 percen belül.\n\nÁtirat: {url}",
+  "botTicketClosedResolvedDesc": "Lezárva, miután megerősítetted, hogy a probléma megoldódott.\n\nEz a csatorna automatikusan törlődik 5 percen belül.\n\nÁtirat: {url}",
+  "botReopenButtonLabel": "🔓 Újranyitás",
+  "botTicketClaimedTitle": "👋 Tiket lefoglalva",
+  "botTicketClaimedDesc": "**{name}** lefoglalta ezt a tiketet, hamarosan válaszol.",
+  "botTicketOpenedClaimedDesc": "**{owner}** tiketje\n\nLefoglalta: **{claimer}**",
+  "botTicketReopenedTitle": "🎫 Tiket újranyitva",
+  "botTicketReopenedDesc": "**{owner}** tiketje\n\nÚjranyitotta: **{name}**"
 }
