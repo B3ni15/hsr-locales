@@ -1652,7 +1652,7 @@
   "botAppealRejectedTitle": "❌ Appeal rejected",
   "botAppealAcceptedDesc": "Your {type} appeal was **accepted** by {staff}. They'll sort out the details with you here.",
   "botAppealRejectedDesc": "Your {type} appeal was **rejected** by {staff}. If you have new information, you can raise it here.",
-  "botAppealTypeTermination": "Termination",
+  "botAppealTypeTermination": "Termination or role removal",
   "botAppealTypeWarning": "Warning",
   "botAppealTypeMissedDuty": "Missed duty",
   "botAppealTypeRoleRemoval": "Role removal",

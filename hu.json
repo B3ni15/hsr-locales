@@ -1652,7 +1652,7 @@
   "botAppealRejectedTitle": "❌ Fellebbezés elutasítva",
   "botAppealAcceptedDesc": "A {type} fellebbezésed **elfogadásra került** {staff} által. Itt egyeztetik veled a részleteket.",
   "botAppealRejectedDesc": "A {type} fellebbezésed **elutasításra került** {staff} által. Ha van új információd, itt jelezheted.",
-  "botAppealTypeTermination": "Tagság megszüntetése",
+  "botAppealTypeTermination": "Tagság megszüntetése vagy rangelvétel",
   "botAppealTypeWarning": "Figyelmeztetés",
   "botAppealTypeMissedDuty": "Elmulasztott szolgálat",
   "botAppealTypeRoleRemoval": "Rang elvétele",
