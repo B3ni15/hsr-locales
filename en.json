@@ -1557,7 +1557,7 @@
   "emailInstructorQuotaWarningIntro": "Your instructor activity last week fell short of the requirement.",
   "emailInstructorQuotaProgress": "Achieved: {credits} / {required} trainees ({sessions} sessions)",
   "emailInstructorQuotaWarningNotice": "This is your first warning. If you miss the quota again next week, your Instructor role may be removed.",
-  "emailInstructorQuotaWarningRule": "The weekly requirement is 2 trainees taken fully through their path, that is 8 sessions in total. Every session you run counts as 0.25 of a trainee, whether the trainee passed or not.",
+  "emailInstructorQuotaWarningRule": "The weekly requirement is 2 trainees taken fully through their path, that is 8 sessions in total. Every session you run counts as 0.25 of a trainee, whether the trainee passed or not. The requirement never exceeds the work that existed: a week with no trainees to teach counts as met automatically.",
   "emailInstructorQuotaWarningInactiveNote": "If you are on leave, the requirement is reduced in proportion to those days – the leave has to be booked in advance, it does not count retroactively.",
   "emailInstructorQuotaButton": "Open supervision page",
   "emailInstructorTerminationSubject": "Instructor role removed",

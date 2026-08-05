@@ -1558,7 +1558,7 @@
   "emailInstructorQuotaWarningIntro": "A múlt heti oktatói tevékenységed nem érte el az elvárt szintet.",
   "emailInstructorQuotaProgress": "Teljesítve: {credits} / {required} fő ({sessions} felügyelet)",
   "emailInstructorQuotaWarningNotice": "Ez az első figyelmeztetésed. Ha a következő héten sem teljesíted a kvótát, az oktatói rangod megvonásra kerülhet.",
-  "emailInstructorQuotaWarningRule": "A heti követelmény: 2 fő teljes levezetése, azaz összesen 8 felügyelet. Minden megtartott felügyelet 0,25 főnek számít, függetlenül attól, hogy a tanuló átment-e.",
+  "emailInstructorQuotaWarningRule": "A heti követelmény: 2 fő teljes levezetése, azaz összesen 8 felügyelet. Minden megtartott felügyelet 0,25 főnek számít, függetlenül attól, hogy a tanuló átment-e. A követelmény sosem több annál, amennyi munka ténylegesen volt: ha nem volt kit oktatni, a hét automatikusan teljesítettnek számít.",
   "emailInstructorQuotaWarningInactiveNote": "Ha szabadságon vagy, a követelmény arányosan csökken azokra a napokra – ehhez a szabadságot előre le kell adnod, utólag nem számít bele.",
   "emailInstructorQuotaButton": "Felügyeleti oldal megnyitása",
   "emailInstructorTerminationSubject": "Oktatói rang megvonása",
