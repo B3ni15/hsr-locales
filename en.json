@@ -2044,8 +2044,8 @@
   "rpDocHeader": "Route permit",
   "rpNumber": "Permit no.",
   "rpTabMine": "Mine",
-  "rpTabIncoming": "Incoming",
-  "rpEmptyIncoming": "No incoming requests.",
+  "rpTabIncoming": "Incoming",
+  "rpEmptyIncoming": "No incoming requests.",
   "rpParties": "Parties",
   "rpNewShort": "New request",
   "rpCloseForm": "Close form"
