@@ -2040,5 +2040,13 @@
   "botAutomodPhraseTooShortNotice": "⚠️ Túl rövid szöveg a kivételhez.",
   "botAutomodAllowedNotice": "✅ `{term}` engedélyezve — sem az AI, sem a tanulás nem veszi fel újra.",
   "botAutomodDismissedNotice": "🗑️ Elvetve — a listák változatlanok.",
-  "botAutomodWordsError": "❌ Hiba történt a szólista kezelése közben."
+  "botAutomodWordsError": "❌ Hiba történt a szólista kezelése közben.",
+  "rpDocHeader": "Vonalismereti engedély",
+  "rpNumber": "Engedélyszám",
+  "rpTabMine": "Sajátjaim",
+  "rpTabIncoming": "Beérkező",
+  "rpEmptyIncoming": "Nincs beérkező kérelem.",
+  "rpParties": "Résztvevők",
+  "rpNewShort": "Új kérelem",
+  "rpCloseForm": "Űrlap bezárása"
 }

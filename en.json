@@ -2040,5 +2040,13 @@
   "botAutomodPhraseTooShortNotice": "⚠️ Text is too short for an exemption.",
   "botAutomodAllowedNotice": "✅ `{term}` allowed — neither the AI nor learning will pick it up again.",
   "botAutomodDismissedNotice": "🗑️ Dismissed — the lists are unchanged.",
-  "botAutomodWordsError": "❌ An error occurred while handling the word list."
+  "botAutomodWordsError": "❌ An error occurred while handling the word list.",
+  "rpDocHeader": "Route permit",
+  "rpNumber": "Permit no.",
+  "rpTabMine": "Mine",
+  "rpTabIncoming": "Incoming",
+  "rpEmptyIncoming": "No incoming requests.",
+  "rpParties": "Parties",
+  "rpNewShort": "New request",
+  "rpCloseForm": "Close form"
 }
