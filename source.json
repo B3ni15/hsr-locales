@@ -2071,5 +2071,14 @@
   "rpEmptyIncoming": "Nincs beérkező kérelem.",
   "rpParties": "Résztvevők",
   "rpNewShort": "Új kérelem",
-  "rpCloseForm": "Űrlap bezárása"
+  "rpCloseForm": "Űrlap bezárása",
+  "typeTraining": "Típusoktatás",
+  "typeTrainingSubtitle": "Jelentkezés meghirdetett mozdonytípus-oktatásokra",
+  "typeTrainingLoadError": "Nem sikerült betölteni a típusoktatásokat.",
+  "typeTrainingActionError": "A művelet nem sikerült.",
+  "typeTrainingEmptyTitle": "Nincs meghirdetett típusoktatás",
+  "typeTrainingEmptySubtitle": "Nézz vissza később.",
+  "typeTrainingRegistrants": "jelentkező",
+  "typeTrainingRegister": "Jelentkezés",
+  "typeTrainingUnregister": "Lejelentkezés"
 }
