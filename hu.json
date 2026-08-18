@@ -2256,7 +2256,7 @@
   "botTicketCatListLine": "{emoji} **{label}** — `{key}`{extra}",
   "botTicketCatStaffSuffix": " • stáb: <@&{role}>",
   "botTicketCatParentSuffix": " • ide: <#{parent}>",
-  "botTicketCatPanelMissing": "⚠️ A panel még nincs beállítva — futtasd a `/ticket-setup` parancsot, hogy a tagok lássák a kategóriákat.",
+  "botTicketCatPanelMissing": "⚠️ A panelt nem sikerült frissíteni — vagy nincs még beállítva, vagy törölték az üzenetét. Futtasd a `/ticket-setup` parancsot, hogy kikerüljön.",
   "botTicketCatNeedAdmin": "❌ Ehhez a parancshoz Adminisztrátor jogosultság kell.",
   "botTicketCategoryField": "Kategória",
   "botTicketAlreadyOpen": "❌ Már van egy nyitott ticketed: <#{channel}>",
@@ -2306,7 +2306,7 @@
   "botTicketRatingSetupDone": "✅ Az értékelő tábla kikerült ide: <#{channel}>. Minden új értékelés után magától frissül.",
   "botTicketRatingSetupFailed": "❌ Nem sikerült kiküldeni az értékelő táblát. Ellenőrizd, hogy a bot tud-e írni abba a csatornába.",
   "botTicketRatingRefreshed": "✅ Az értékelő tábla frissítve.",
-  "botTicketRatingNoBoard": "❌ Még nincs beállítva értékelő tábla. Előbb futtasd a `/ticket-rating setup` parancsot.",
+  "botTicketRatingNoBoard": "❌ Az értékelő táblát nem sikerült frissíteni — vagy nincs beállítva, vagy törölték az üzenetét. Futtasd a `/ticket-rating setup` parancsot.",
   "botTicketRatingDisabledDone": "✅ Az értékelés kérése kikapcsolva. A lezárt ticketek többé nem kérnek visszajelzést.",
   "botTicketRatingEnabledDone": "✅ Az értékelés kérése bekapcsolva.",
   "emailTicketClosedSubject": "A support ticketed lezárult",
@@ -2341,5 +2341,6 @@
   "myTicketsRateYourRating": "Az értékelésed",
   "myTicketsRateFailed": "Nem sikerült menteni az értékelést.",
   "myTicketsRateEdit": "Értékelés módosítása",
-  "botTicketPanelRefreshed": "✅ A ticket panel újrarajzolva a jelenlegi kategóriákból."
+  "botTicketPanelRefreshed": "✅ A ticket panel újrarajzolva a jelenlegi kategóriákból.",
+  "botTicketSetupBadLanguages": "❌ Ismeretlen nyelvkód: `{unknown}`. Elérhető: `{supported}` — többet vesszővel válassz el, pl. `hu,en`."
 }
