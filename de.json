@@ -2342,5 +2342,12 @@
   "myTicketsRateFailed": "Die Bewertung konnte nicht gespeichert werden.",
   "myTicketsRateEdit": "Bewertung ändern",
   "botTicketPanelRefreshed": "✅ Ticket-Panel aus den aktuellen Kategorien neu gerendert.",
-  "botTicketSetupBadLanguages": "❌ Unbekannter Sprachcode: `{unknown}`. Verfügbar: `{supported}` — mehrere mit Komma trennen, z. B. `hu,en`."
+  "botTicketSetupBadLanguages": "❌ Unbekannter Sprachcode: `{unknown}`. Verfügbar: `{supported}` — mehrere mit Komma trennen, z. B. `hu,en`.",
+  "botEventCounterChannelMissing": "❌ Du musst einen Kanal angeben.",
+  "botEventCounterInProgress": "❌ In einem anderen Kanal läuft bereits ein Zählspiel. Setze es zuerst zurück.",
+  "botEventCounterChannelSet": "✅ Zählspiel eingerichtet in <#{channel}>! Mitglieder können ab 1 aufwärts zählen. Viel Erfolg!",
+  "botEventCounterErrorReset": "❌ Beim Einrichten des Zählspiels ist ein Fehler aufgetreten.",
+  "botEventCounterWrongNumber": "💥 {user} hat die Zählung unterbrochen! Erwartet war **{expected}**, es kam **{got}**. Neustart bei **1**.",
+  "botEventCounterDuplicate": "💥 {user} hat versucht, zweimal hintereinander zu zählen! Neustart bei **1**.",
+  "botEventCounterFinished": "🎉 {user} hat **100** erreicht und das Zählspiel gewonnen! Neustart bei **1**."
 }

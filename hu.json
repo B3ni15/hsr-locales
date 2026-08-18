@@ -2342,5 +2342,12 @@
   "myTicketsRateFailed": "Nem sikerült menteni az értékelést.",
   "myTicketsRateEdit": "Értékelés módosítása",
   "botTicketPanelRefreshed": "✅ A ticket panel újrarajzolva a jelenlegi kategóriákból.",
-  "botTicketSetupBadLanguages": "❌ Ismeretlen nyelvkód: `{unknown}`. Elérhető: `{supported}` — többet vesszővel válassz el, pl. `hu,en`."
+  "botTicketSetupBadLanguages": "❌ Ismeretlen nyelvkód: `{unknown}`. Elérhető: `{supported}` — többet vesszővel válassz el, pl. `hu,en`.",
+  "botEventCounterChannelMissing": "❌ Meg kell adnod egy csatornát.",
+  "botEventCounterInProgress": "❌ Már fut egy számolós játék egy másik csatornában. Előbb állítsd le azt.",
+  "botEventCounterChannelSet": "✅ A számolós játék beállítva itt: <#{channel}>! A tagok 1-től kezdve számolhatnak. Sok sikert!",
+  "botEventCounterErrorReset": "❌ Hiba történt a számolós játék beállítása közben.",
+  "botEventCounterWrongNumber": "💥 {user} elrontotta a számolást! **{expected}** helyett **{got}** jött. Kezdés újra **1**-től.",
+  "botEventCounterDuplicate": "💥 {user} egymás után kétszer próbált számolni! Kezdés újra **1**-től.",
+  "botEventCounterFinished": "🎉 {user} elérte a **100**-at és megnyerte a számolós játékot! Kezdés újra **1**-től."
 }

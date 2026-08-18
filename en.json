@@ -2342,5 +2342,12 @@
   "myTicketsRateFailed": "Could not save the rating.",
   "myTicketsRateEdit": "Change my rating",
   "botTicketPanelRefreshed": "✅ Ticket panel re-rendered from the current categories.",
-  "botTicketSetupBadLanguages": "❌ Unknown language code: `{unknown}`. Available: `{supported}` — separate several with commas, e.g. `hu,en`."
+  "botTicketSetupBadLanguages": "❌ Unknown language code: `{unknown}`. Available: `{supported}` — separate several with commas, e.g. `hu,en`.",
+  "botEventCounterChannelMissing": "❌ You must specify a channel.",
+  "botEventCounterInProgress": "❌ A counting game is already in progress in another channel. Reset it first.",
+  "botEventCounterChannelSet": "✅ Counting game set up in <#{channel}>! Members can count from 1 up. Good luck!",
+  "botEventCounterErrorReset": "❌ Something went wrong while setting up the counting game.",
+  "botEventCounterWrongNumber": "💥 {user} broke the count! Expected **{expected}**, got **{got}**. Starting over from **1**.",
+  "botEventCounterDuplicate": "💥 {user} tried to count twice in a row! Starting over from **1**.",
+  "botEventCounterFinished": "🎉 {user} reached **100** and won the counting game! Starting over from **1**."
 }
