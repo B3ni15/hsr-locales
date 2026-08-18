@@ -2256,7 +2256,7 @@
   "botTicketCatListLine": "{emoji} **{label}** — `{key}`{extra}",
   "botTicketCatStaffSuffix": " • staff: <@&{role}>",
   "botTicketCatParentSuffix": " • under <#{parent}>",
-  "botTicketCatPanelMissing": "⚠️ The panel has not been set up yet — run `/ticket-setup` so members can see the categories.",
+  "botTicketCatPanelMissing": "⚠️ The panel could not be updated — it has not been set up yet, or its message was deleted. Run `/ticket-setup` to post it.",
   "botTicketCatNeedAdmin": "❌ This command requires the Administrator permission.",
   "botTicketCategoryField": "Category",
   "botTicketAlreadyOpen": "❌ You already have an open ticket: <#{channel}>",
@@ -2306,7 +2306,7 @@
   "botTicketRatingSetupDone": "✅ Feedback board posted in <#{channel}>. It re-renders itself after every new rating.",
   "botTicketRatingSetupFailed": "❌ Could not post the feedback board. Check that the bot can write in that channel.",
   "botTicketRatingRefreshed": "✅ Feedback board refreshed.",
-  "botTicketRatingNoBoard": "❌ No feedback board is set up yet. Run `/ticket-rating setup` first.",
+  "botTicketRatingNoBoard": "❌ The feedback board could not be updated — it is not set up yet, or its message was deleted. Run `/ticket-rating setup` to post it.",
   "botTicketRatingDisabledDone": "✅ Rating requests are off. Closed tickets will no longer ask for feedback.",
   "botTicketRatingEnabledDone": "✅ Rating requests are on.",
   "emailTicketClosedSubject": "Your support ticket has been closed",
@@ -2341,5 +2341,6 @@
   "myTicketsRateYourRating": "Your rating",
   "myTicketsRateFailed": "Could not save the rating.",
   "myTicketsRateEdit": "Change my rating",
-  "botTicketPanelRefreshed": "✅ Ticket panel re-rendered from the current categories."
+  "botTicketPanelRefreshed": "✅ Ticket panel re-rendered from the current categories.",
+  "botTicketSetupBadLanguages": "❌ Unknown language code: `{unknown}`. Available: `{supported}` — separate several with commas, e.g. `hu,en`."
 }
