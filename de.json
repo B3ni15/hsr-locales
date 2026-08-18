@@ -2256,7 +2256,7 @@
   "botTicketCatListLine": "{emoji} **{label}** — `{key}`{extra}",
   "botTicketCatStaffSuffix": " • Team: <@&{role}>",
   "botTicketCatParentSuffix": " • unter <#{parent}>",
-  "botTicketCatPanelMissing": "⚠️ Das Panel wurde noch nicht eingerichtet — führe `/ticket-setup` aus, damit Mitglieder die Kategorien sehen.",
+  "botTicketCatPanelMissing": "⚠️ Das Panel konnte nicht aktualisiert werden — es ist noch nicht eingerichtet, oder seine Nachricht wurde gelöscht. Führe `/ticket-setup` aus, um es zu posten.",
   "botTicketCatNeedAdmin": "❌ Für diesen Befehl wird die Administrator-Berechtigung benötigt.",
   "botTicketCategoryField": "Kategorie",
   "botTicketAlreadyOpen": "❌ Du hast bereits ein offenes Ticket: <#{channel}>",
@@ -2306,7 +2306,7 @@
   "botTicketRatingSetupDone": "✅ Die Feedback-Tafel wurde in <#{channel}> gepostet. Sie aktualisiert sich nach jeder neuen Bewertung selbst.",
   "botTicketRatingSetupFailed": "❌ Die Feedback-Tafel konnte nicht gepostet werden. Prüfe, ob der Bot in diesem Kanal schreiben darf.",
   "botTicketRatingRefreshed": "✅ Feedback-Tafel aktualisiert.",
-  "botTicketRatingNoBoard": "❌ Es ist noch keine Feedback-Tafel eingerichtet. Führe zuerst `/ticket-rating setup` aus.",
+  "botTicketRatingNoBoard": "❌ Die Feedback-Tafel konnte nicht aktualisiert werden — sie ist nicht eingerichtet, oder ihre Nachricht wurde gelöscht. Führe `/ticket-rating setup` aus.",
   "botTicketRatingDisabledDone": "✅ Bewertungsanfragen sind aus. Geschlossene Tickets fragen kein Feedback mehr ab.",
   "botTicketRatingEnabledDone": "✅ Bewertungsanfragen sind an.",
   "emailTicketClosedSubject": "Dein Support-Ticket wurde geschlossen",
@@ -2341,5 +2341,6 @@
   "myTicketsRateYourRating": "Deine Bewertung",
   "myTicketsRateFailed": "Die Bewertung konnte nicht gespeichert werden.",
   "myTicketsRateEdit": "Bewertung ändern",
-  "botTicketPanelRefreshed": "✅ Ticket-Panel aus den aktuellen Kategorien neu gerendert."
+  "botTicketPanelRefreshed": "✅ Ticket-Panel aus den aktuellen Kategorien neu gerendert.",
+  "botTicketSetupBadLanguages": "❌ Unbekannter Sprachcode: `{unknown}`. Verfügbar: `{supported}` — mehrere mit Komma trennen, z. B. `hu,en`."
 }
