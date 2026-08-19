@@ -769,6 +769,8 @@
   "adminTrainingTextPlaceholder": "Markdown szöveg...",
   "adminTrainingUploadImage": "Kép feltöltése",
   "adminTrainingUploadVideo": "Videó feltöltése",
+  "adminTrainingVideoPrompt": "Kérlek írd be a YouTube videó linkjét:",
+  "adminTrainingVideoInvalid": "Kérlek érvényes YouTube linket adj meg!",
   "adminTrainingCompletionGateBadge": "Vizsga kapuja",
   "adminTrainingClose": "Bezárás",
   "adminTrainingSectionEditor": "Szekció szerkesztő",
