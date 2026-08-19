@@ -769,6 +769,8 @@
   "adminTrainingTextPlaceholder": "Markdown text...",
   "adminTrainingUploadImage": "Upload image",
   "adminTrainingUploadVideo": "Upload video",
+  "adminTrainingVideoPrompt": "Enter a YouTube video URL:",
+  "adminTrainingVideoInvalid": "Please enter a valid YouTube URL.",
   "adminTrainingCompletionGateBadge": "Completion Gate",
   "adminTrainingClose": "Close",
   "adminTrainingSectionEditor": "Section Editor",
