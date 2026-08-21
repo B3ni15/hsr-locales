@@ -2402,7 +2402,6 @@
   "botDutyFieldStart": "Beginn",
   "botDutyFieldEnd": "Ende",
   "botDutyBreakFooter": "{count} wöchentliche Befreiung(en) betroffen",
-  "botDutyBreakModReason": "{days} Tag(e) Dienstpause ({start} – {end})",
   "botDutyRemoveErrNoUser": "❌ Gib einen Benutzer an.",
   "botDutyBookingsTitle": "📋 Buchungen von {user}",
   "botDutyBookingsEmpty": "Keine aktiven (bevorstehenden) Buchungen.",

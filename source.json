@@ -2395,7 +2395,6 @@
   "botDutyFieldStart": "Kezdete",
   "botDutyFieldEnd": "Vége",
   "botDutyBreakFooter": "{count} heti mentesítési bejegyzés érintve",
-  "botDutyBreakModReason": "{days} nap szolgálati szünet ({start} – {end})",
   "botDutyRemoveErrNoUser": "❌ Adj meg egy felhasználót.",
   "botDutyBookingsTitle": "📋 {user} foglalásai",
   "botDutyBookingsEmpty": "Nincs aktív (jövőbeli) foglalása.",

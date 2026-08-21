@@ -2410,7 +2410,6 @@
   "botDutyFieldStart": "Starts",
   "botDutyFieldEnd": "Ends",
   "botDutyBreakFooter": "{count} weekly exemption row(s) affected",
-  "botDutyBreakModReason": "{days} day(s) duty break ({start} – {end})",
   "botDutyRemoveErrNoUser": "❌ Provide a user.",
   "botDutyBookingsTitle": "📋 {user}'s bookings",
   "botDutyBookingsEmpty": "No active (upcoming) bookings.",
