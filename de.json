@@ -1,12 +1,12 @@
 {
   "_meta": {
-    "name": "Magyar",
-    "flag": "🇭🇺"
+    "name": "Deutsch",
+    "flag": "🇩🇪"
   },
-  "language": "Nyelv",
-  "timetable": "Menetrend",
-  "leaderboard": "Toplista",
-  "duty": "Szolgálat",
+  "language": "Sprache",
+  "timetable": "Fahrplan",
+  "leaderboard": "Rangliste",
+  "duty": "Dienst",
   "activeDuties": "Aktív szolgálatok",
   "routePermits": "Vonalismeretek",
   "supervisor": "Felvigyázó",
