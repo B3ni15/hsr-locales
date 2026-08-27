@@ -1983,5 +1983,17 @@
   "botDutyFieldStatus": "Status",
   "botDutyRemoveConfirmButton": "Confirm removal",
   "botDutyBookingRemovedNotice": "✅ Booking removed ({date} • {label}).",
-  "botDutyRemoveComponentError": "❌ An error occurred while handling the booking."
+  "botDutyRemoveComponentError": "❌ An error occurred while handling the booking.",
+  "inspectorServices": "Inspector services",
+  "inspectorServicesHint": "The services your rank is qualified for. Booking one makes you the inspector on both the outbound and the return train; you start your duty from the booking.",
+  "inspectorBookingsClosed": "Inspector bookings are currently closed.",
+  "inspectorNoServices": "There is no service for your rank on this day.",
+  "inspectorTodayBooking": "Your booking for today",
+  "inspectorNoTodayBooking": "You have no booking for today. Book a service above, or start your duty without one.",
+  "inspecting": "Inspecting",
+  "ticketInspector": "Ticket inspector",
+  "ticketInspectors": "Ticket inspectors",
+  "cargoDriver": "Cargo driver",
+  "departedShort": "Departed",
+  "bookingClosed": "Closed"
 }
