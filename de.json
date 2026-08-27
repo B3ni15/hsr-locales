@@ -1975,5 +1975,17 @@
   "botDutyFieldStatus": "Status",
   "botDutyRemoveConfirmButton": "Entfernen bestätigen",
   "botDutyBookingRemovedNotice": "✅ Buchung entfernt ({date} • {label}).",
-  "botDutyRemoveComponentError": "❌ Beim Bearbeiten der Buchung ist ein Fehler aufgetreten."
+  "botDutyRemoveComponentError": "❌ Beim Bearbeiten der Buchung ist ein Fehler aufgetreten.",
+  "inspectorServices": "Fahrkartenkontroll-Dienste",
+  "inspectorServicesHint": "Die Dienste, für die dein Rang qualifiziert ist. Mit einer Buchung wirst du Kontrolleur:in auf der Hin- und der Rückfahrt; den Dienst beginnst du über deine Buchung.",
+  "inspectorBookingsClosed": "Buchungen für die Fahrkartenkontrolle sind derzeit geschlossen.",
+  "inspectorNoServices": "Für diesen Tag gibt es keinen Dienst für deinen Rang.",
+  "inspectorTodayBooking": "Deine heutige Buchung",
+  "inspectorNoTodayBooking": "Du hast heute keine Buchung. Buche oben einen Dienst oder beginne den Dienst ohne Buchung.",
+  "inspecting": "Fahrkartenkontrolle",
+  "ticketInspector": "Fahrkartenkontrolleur:in",
+  "ticketInspectors": "Fahrkartenkontrolleur:innen",
+  "cargoDriver": "Cargo-Triebfahrzeugführer:in",
+  "departedShort": "Abgefahren",
+  "bookingClosed": "Geschlossen"
 }

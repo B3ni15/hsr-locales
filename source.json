@@ -1968,5 +1968,17 @@
   "botDutyFieldStatus": "Állapot",
   "botDutyRemoveConfirmButton": "Törlés megerősítése",
   "botDutyBookingRemovedNotice": "✅ Foglalás törölve ({date} • {label}).",
-  "botDutyRemoveComponentError": "❌ Hiba történt a foglalás kezelése közben."
+  "botDutyRemoveComponentError": "❌ Hiba történt a foglalás kezelése közben.",
+  "inspectorServices": "Jegyvizsgálói járatok",
+  "inspectorServicesHint": "A rangodhoz tartozó járatok. Foglalással a járat oda- és visszairányára is te leszel a jegyvizsgáló; a szolgálatot a foglalásod alapján tudod megkezdeni.",
+  "inspectorBookingsClosed": "A jegyvizsgálói foglalás jelenleg zárva van.",
+  "inspectorNoServices": "Erre a napra nincs a rangodhoz tartozó járat.",
+  "inspectorTodayBooking": "Mai foglalásod",
+  "inspectorNoTodayBooking": "Nincs mai foglalásod. Foglalj járatot fent, vagy kezdd meg a szolgálatot járat nélkül.",
+  "inspecting": "Jegyvizsgálat",
+  "ticketInspector": "Jegyvizsgáló",
+  "ticketInspectors": "Jegyvizsgálók",
+  "cargoDriver": "Cargo mozdonyvezető",
+  "departedShort": "Elindult",
+  "bookingClosed": "Zárva"
 }
