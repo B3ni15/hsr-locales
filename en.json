@@ -1999,5 +1999,8 @@
   "ticketInspectors": "Ticket inspectors",
   "cargoDriver": "Cargo driver",
   "departedShort": "Departed",
-  "bookingClosed": "Closed"
+  "bookingClosed": "Closed",
+  "examApplicationBlockedTitle": "You cannot apply at the moment",
+  "examApplicationBlockedBlacklisted": "Your account is excluded from applications. If you believe this is a mistake, please open a support ticket.",
+  "examApplicationBlockedBanned": "Your account is banned, so you cannot submit an application."
 }
