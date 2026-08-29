@@ -1984,5 +1984,8 @@
   "ticketInspectors": "Jegyvizsgálók",
   "cargoDriver": "Cargo mozdonyvezető",
   "departedShort": "Elindult",
-  "bookingClosed": "Zárva"
+  "bookingClosed": "Zárva",
+  "examApplicationBlockedTitle": "Jelenleg nem tudsz jelentkezni",
+  "examApplicationBlockedBlacklisted": "A fiókod ki van zárva a jelentkezésből. Ha úgy gondolod, hogy ez tévedés, nyiss egy support ticketet.",
+  "examApplicationBlockedBanned": "A fiókod ki van tiltva, ezért nem tudsz jelentkezni."
 }

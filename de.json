@@ -1984,5 +1984,8 @@
   "ticketInspectors": "Fahrkartenkontrolleur:innen",
   "cargoDriver": "Cargo-Lokführer:in",
   "departedShort": "Abgefahren",
-  "bookingClosed": "Geschlossen"
+  "bookingClosed": "Geschlossen",
+  "examApplicationBlockedTitle": "Du kannst dich derzeit nicht bewerben",
+  "examApplicationBlockedBlacklisted": "Dein Konto ist von Bewerbungen ausgeschlossen. Falls das ein Irrtum ist, erstelle bitte ein Support-Ticket.",
+  "examApplicationBlockedBanned": "Dein Konto ist gesperrt, daher kannst du dich nicht bewerben."
 }
