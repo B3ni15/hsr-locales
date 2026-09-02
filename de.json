@@ -2082,6 +2082,7 @@
   "profileSpotifyUnlinked": "Dein Spotify-Konto wurde getrennt.",
   "profileSpotifyCancelled": "Du hast die Verbindung abgebrochen.",
   "profileSpotifyFailed": "Die Verbindung ist fehlgeschlagen. Bitte versuche es erneut.",
+  "profileSpotifyNotAllowed": "Dein Spotify-Konto ist für diese App noch nicht freigegeben. Wende dich an ein Admin-Mitglied — es muss dich im Spotify-Entwicklerbereich hinzufügen oder die App freigeben lassen.",
   "profileSpotifyUnavailable": "Die Spotify-Verbindung ist derzeit nicht verfügbar.",
   "profileVisibility": "Wer kann dein Profil sehen?",
   "profileVisibilityPUBLIC": "Alle",

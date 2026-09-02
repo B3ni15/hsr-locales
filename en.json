@@ -2097,6 +2097,7 @@
   "profileSpotifyUnlinked": "Your Spotify account was disconnected.",
   "profileSpotifyCancelled": "You cancelled the connection.",
   "profileSpotifyFailed": "The connection failed. Please try again.",
+  "profileSpotifyNotAllowed": "Your Spotify account is not approved for this app yet. Ask an admin — they need to add you in Spotify's developer dashboard, or get the app approved.",
   "profileSpotifyUnavailable": "Spotify linking is not available right now.",
   "profileVisibility": "Who can see your profile?",
   "profileVisibilityPUBLIC": "Anyone",

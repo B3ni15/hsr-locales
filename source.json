@@ -2082,6 +2082,7 @@
   "profileSpotifyUnlinked": "A Spotify-fiókod le lett választva.",
   "profileSpotifyCancelled": "Megszakítottad az összekötést.",
   "profileSpotifyFailed": "Az összekötés nem sikerült. Próbáld újra.",
+  "profileSpotifyNotAllowed": "A Spotify-fiókod még nincs engedélyezve ehhez az alkalmazáshoz. Szólj egy adminnak — fel kell venniük a Spotify fejlesztői felületén, vagy engedélyeztetniük kell az appot.",
   "profileSpotifyUnavailable": "A Spotify-összekötés jelenleg nem érhető el.",
   "profileVisibility": "Ki láthatja a profilodat?",
   "profileVisibilityPUBLIC": "Bárki",
