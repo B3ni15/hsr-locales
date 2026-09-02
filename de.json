@@ -1350,6 +1350,7 @@
   "botTicketReopenedDesc": "Ticket von **{owner}**\n\nWieder geöffnet von: **{name}**",
   "botErrServerOnly": "❌ Dieser Befehl kann nur innerhalb eines Servers verwendet werden.",
   "botModRefusedSelf": "❌ Du kannst diese Aktion nicht auf dich selbst anwenden.",
+  "botWebPermissionRequired": "❌ Dieser Befehl erfordert eine Website-Berechtigung ({permission}), die dein Konto nicht hat. Falls dein Discord nicht mit deinem Website-Konto verknüpft ist, verknüpfe es zuerst.",
   "botModRefusedHierarchy": "❌ Dieses Mitglied steht auf deiner Stufe oder darüber, du kannst diese Aktion nicht ausführen.",
   "botModRefusedUnknown": "❌ Die Rollen des Mitglieds konnten nicht gelesen werden, daher wurde nichts ausgeführt. Versuche es erneut.",
   "botRoleRefusedHierarchy": "❌ Diese Rolle steht auf deiner Stufe oder darüber, du kannst sie nicht vergeben oder entfernen.",

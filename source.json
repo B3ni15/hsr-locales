@@ -1350,6 +1350,7 @@
   "botTicketReopenedDesc": "**{owner}** tiketje\n\nÚjranyitotta: **{name}**",
   "botErrServerOnly": "❌ Ez a parancs csak szerveren belül használható.",
   "botModRefusedSelf": "❌ Magadon nem hajthatod végre ezt a műveletet.",
+  "botWebPermissionRequired": "❌ Ehhez a parancshoz weboldali jogosultság kell ({permission}), és a te fiókodon nincs meg. Ha nincs összekötve a Discordod a weboldali fiókoddal, előbb tedd meg.",
   "botModRefusedHierarchy": "❌ Ez a tag veled azonos vagy magasabb rangú, ezért nem hajthatod végre rajta ezt a műveletet.",
   "botModRefusedUnknown": "❌ Nem sikerült lekérni a tag rangjait, ezért biztonságból nem hajtom végre. Próbáld újra.",
   "botRoleRefusedHierarchy": "❌ Ez a rang veled azonos vagy magasabban áll, ezért nem oszthatod ki és nem veheted el.",
