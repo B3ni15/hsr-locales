@@ -2018,6 +2018,7 @@
   "examApplicationBlockedTitle": "Du kannst dich derzeit nicht bewerben",
   "examApplicationBlockedBlacklisted": "Dein Konto ist von Bewerbungen ausgeschlossen. Falls das ein Irrtum ist, erstelle bitte ein Support-Ticket.",
   "examApplicationBlockedBanned": "Dein Konto ist gesperrt, daher kannst du dich nicht bewerben.",
+  "examApplicationBlockedEnrolled": "Du nimmst bereits am Programm {program} teil, daher kannst du dieses Bewerbungsformular nicht ausfüllen.",
   "emailClosingExamRuleVoice": "Du musst während der Prüfung keinem Discord-Sprachkanal beitreten.",
   "emailClosingExamRuleWindow": "Der Prüfungstermin ist 1 Stunde lang geöffnet – du kannst die Prüfung in diesem Zeitraum jederzeit starten und danach in deinem eigenen Tempo abschließen.",
   "emailClosingExamRuleAutoGrade": "Die Prüfung wird automatisch ausgewertet, das Ergebnis erhältst du per E-Mail.",
