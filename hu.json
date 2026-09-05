@@ -2211,5 +2211,11 @@
   "wrappedAllTimeBody": "{level}. szint, {xp} XP, összesen {distance} km és {hours} óra a pályán.",
   "wrappedAllTimeRank": "Ezzel a(z) {rank}. helyen állsz a ranglistán.",
   "wrappedViewProfile": "Profilom megnyitása",
-  "wrappedFooter": "Ezt a levelet azért kaptad, mert idén aktív voltál nálunk."
+  "wrappedFooter": "Ezt a levelet azért kaptad, mert idén aktív voltál nálunk.",
+  "emailTrainingSupervisionWarningSubject": "HSR – Figyelmeztetés: Közeleg a felügyeleti határidő!",
+  "emailTrainingSupervisionWarningTitle": "Felügyeleti határidő figyelmeztetés",
+  "emailTrainingSupervisionWarningBody": "Emlékeztetőül: csak {days} napod maradt a(z) {program} képzés felügyeleti szakaszának teljesítésére.",
+  "emailTrainingSupervisionWarningInstruction": "Eddig {done}/{required} sikeres felügyeleti szolgálatod van. Kérjük, egyeztess oktatóval, és teljesítsd a hiányzó alkalmakat a határidő előtt.",
+  "emailTrainingSupervisionWarningConsequence": "Ha a határidőig nem teljesíted a felügyeleti szolgálatokat, a(z) {program} Discord rangod automatikusan eltávolításra kerül, és kikerülsz a képzési rendszerből.",
+  "emailTrainingRemovalReasonSupervision": "a záróvizsga után nem teljesítetted a(z) {required} felügyeleti szolgálatot a rendelkezésre álló {days} napban."
 }
