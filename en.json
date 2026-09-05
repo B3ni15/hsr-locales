@@ -2033,6 +2033,7 @@
   "examApplicationBlockedTitle": "You cannot apply at the moment",
   "examApplicationBlockedBlacklisted": "Your account is excluded from applications. If you believe this is a mistake, please open a support ticket.",
   "examApplicationBlockedBanned": "Your account is banned, so you cannot submit an application.",
+  "examApplicationBlockedEnrolled": "You are already in the {program} programme, so you cannot fill in this application form.",
   "emailClosingExamRuleVoice": "You do not need to join a Discord voice channel during the exam.",
   "emailClosingExamRuleWindow": "The exam slot stays open for 1 hour — you can start it any time within that window, then finish it at your own pace.",
   "emailClosingExamRuleAutoGrade": "The exam is graded automatically, and you will receive the result by email.",

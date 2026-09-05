@@ -2033,6 +2033,7 @@
   "examApplicationBlockedTitle": "Jelenleg nem tudsz jelentkezni",
   "examApplicationBlockedBlacklisted": "A fiókod ki van zárva a jelentkezésből. Ha úgy gondolod, hogy ez tévedés, nyiss egy support ticketet.",
   "examApplicationBlockedBanned": "A fiókod ki van tiltva, ezért nem tudsz jelentkezni.",
+  "examApplicationBlockedEnrolled": "Már részt veszel a(z) {program} képzésen, ezért ezt a jelentkezési lapot nem tudod kitölteni.",
   "emailClosingExamRuleVoice": "Nincs szükség Discord voice csatornába belépni a vizsga alatt.",
   "emailClosingExamRuleWindow": "A vizsgaidőpont 1 óráig áll nyitva – ez idő alatt bármikor elindíthatod, utána a saját tempódban fejezheted be.",
   "emailClosingExamRuleAutoGrade": "A vizsga automatikusan kiértékelésre kerül, az eredményről emailben kapsz értesítést.",
