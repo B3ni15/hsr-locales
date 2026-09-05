@@ -2196,5 +2196,11 @@
   "wrappedAllTimeBody": "Level {level}, {xp} XP, insgesamt {distance} km und {hours} Stunden im Spiel.",
   "wrappedAllTimeRank": "Damit stehst du auf Platz {rank} der Rangliste.",
   "wrappedViewProfile": "Mein Profil öffnen",
-  "wrappedFooter": "Du erhältst diese E-Mail, weil du dieses Jahr bei uns aktiv warst."
+  "wrappedFooter": "Du erhältst diese E-Mail, weil du dieses Jahr bei uns aktiv warst.",
+  "emailTrainingSupervisionWarningSubject": "HSR – Warnung: Die Frist für die Aufsichtsfahrten läuft ab!",
+  "emailTrainingSupervisionWarningTitle": "Warnung zur Aufsichtsfrist",
+  "emailTrainingSupervisionWarningBody": "Zur Erinnerung: Dir bleiben nur noch {days} Tage, um die Aufsichtsphase der Ausbildung {program} abzuschließen.",
+  "emailTrainingSupervisionWarningInstruction": "Du hast bisher {done} von {required} bestandenen Aufsichtsfahrten. Bitte vereinbare die fehlenden Termine vor Ablauf der Frist mit einem Ausbilder.",
+  "emailTrainingSupervisionWarningConsequence": "Wenn du die Aufsichtsfahrten nicht bis zum Fristende abschließt, wird deine {program}-Discord-Rolle automatisch entfernt und du scheidest aus dem Ausbildungssystem aus.",
+  "emailTrainingRemovalReasonSupervision": "du hast die {required} erforderlichen Aufsichtsfahrten nicht innerhalb der {days} Tage nach der Abschlussprüfung absolviert."
 }

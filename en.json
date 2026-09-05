@@ -2211,5 +2211,11 @@
   "wrappedAllTimeBody": "Level {level}, {xp} XP, {distance} km and {hours} hours in game all told.",
   "wrappedAllTimeRank": "That puts you at #{rank} on the leaderboard.",
   "wrappedViewProfile": "Open my profile",
-  "wrappedFooter": "You are getting this because you were active with us this year."
+  "wrappedFooter": "You are getting this because you were active with us this year.",
+  "emailTrainingSupervisionWarningSubject": "HSR – Warning: Supervision deadline approaching!",
+  "emailTrainingSupervisionWarningTitle": "Supervision deadline warning",
+  "emailTrainingSupervisionWarningBody": "Reminder: you only have {days} days left to finish the supervision stage of the {program} programme.",
+  "emailTrainingSupervisionWarningInstruction": "You have {done} of {required} passed supervisions so far. Please arrange the remaining sessions with an instructor before the deadline.",
+  "emailTrainingSupervisionWarningConsequence": "If you do not complete the supervisions by the deadline, your {program} Discord role is removed automatically and you are dropped from the training system.",
+  "emailTrainingRemovalReasonSupervision": "you did not complete the {required} required supervisions within the {days} days you had after the closing exam."
 }
