@@ -1373,6 +1373,7 @@
   "botWarnRemovedAllDesc": "A moderator cleared all of your warnings ({count}).",
   "botWarnRemovedSanctionLiftedField": "🔓 Sanction lifted",
   "botWarnRemovedTimeoutLiftedDesc": "The timeout that came with it has been lifted.",
+  "botWarnRemovedTimeoutShortenedDesc": "Your timeout has been shortened to: {duration}.",
   "botWarnRemovedTempBanLiftedDesc": "The temporary ban that came with it has been lifted.",
   "botFieldModerator": "Moderator",
   "botFieldAction": "Action",

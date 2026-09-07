@@ -1365,6 +1365,7 @@
   "botWarnRemovedAllDesc": "Egy moderátor eltávolította az összes figyelmeztetésedet ({count} db).",
   "botWarnRemovedSanctionLiftedField": "🔓 Szankció feloldva",
   "botWarnRemovedTimeoutLiftedDesc": "A hozzá tartozó időzített némítás (timeout) feloldásra került.",
+  "botWarnRemovedTimeoutShortenedDesc": "Az időzített némításod (timeout) lerövidült erre: {duration}.",
   "botWarnRemovedTempBanLiftedDesc": "A hozzá tartozó ideiglenes kitiltás feloldásra került.",
   "botFieldModerator": "Moderátor",
   "botFieldAction": "Intézkedés",

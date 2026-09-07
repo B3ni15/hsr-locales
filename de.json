@@ -1365,6 +1365,7 @@
   "botWarnRemovedAllDesc": "Ein Moderator hat alle deine Verwarnungen gelöscht ({count}).",
   "botWarnRemovedSanctionLiftedField": "🔓 Sanktion aufgehoben",
   "botWarnRemovedTimeoutLiftedDesc": "Der damit verbundene Timeout wurde aufgehoben.",
+  "botWarnRemovedTimeoutShortenedDesc": "Dein Timeout wurde verkürzt auf: {duration}.",
   "botWarnRemovedTempBanLiftedDesc": "Die damit verbundene vorübergehende Sperre wurde aufgehoben.",
   "botFieldModerator": "Moderator",
   "botFieldAction": "Maßnahme",
