@@ -2213,6 +2213,7 @@
   "afkTrue": "Sikeresen beállítottad az afk státuszt.",
   "afkFalse": "Sikeresen kikapcsoltad az afk státuszt.",
   "afkNoPermission": "Nincs jogod az afk státusz beállításához.",
+  "afkNoAccount": "Ehhez előbb össze kell kötnöd a Discord fiókodat a HSR fiókoddal a weboldalon.",
   "afkTrueForMention": "{user} jelenleg AFK státuszban van. Kérlek, ne pingeld ezt a felhasználót, mert ez nem engedélyezett.",
   "afkMentionDMTitle": "🔕 Ne pingeld az AFK felhasználót",
   "afkMentionDMDesc": "{user} jelenleg AFK státuszban van. Kérlek, ne pingeld, amíg vissza nem tér."

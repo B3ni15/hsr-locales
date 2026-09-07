@@ -2228,6 +2228,7 @@
   "afkTrue": "AFK status enabled successfully.",
   "afkFalse": "AFK status disabled successfully.",
   "afkNoPermission": "You do not have permission to set your AFK status.",
+  "afkNoAccount": "You need to link your Discord account with your HSR account on the website first.",
   "afkTrueForMention": "{user} is currently AFK. Please do not ping this user because it is not allowed.",
   "afkMentionDMTitle": "🔕 Don't ping the AFK user",
   "afkMentionDMDesc": "{user} is currently AFK. Please don't ping them until they're back."
