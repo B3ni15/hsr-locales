@@ -1160,6 +1160,7 @@
   "emailExamSlotInviteTitle": "Vizsga időpontja",
   "emailExamSlotInviteBody": "Új záróvizsga időpont érhető el: {date}.",
   "emailExamSlotInviteInstruction": "Kérjük, regisztrálj a weboldalon az Irányítópult / Vizsgák menüponton keresztül.",
+  "emailExamSlotInviteButton": "Jelentkezés a vizsgára",
   "emailExamStartedSubject": "HSR – Záróvizsga megkezdődött",
   "emailExamStartedTitle": "Vizsga megkezdődött!",
   "emailExamStartedBody": "A(z) {exam} vizsgaalkalom most kezdődött.",

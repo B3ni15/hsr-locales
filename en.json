@@ -1160,6 +1160,7 @@
   "emailExamSlotInviteTitle": "Exam time",
   "emailExamSlotInviteBody": "A new final exam slot is available: {date}.",
   "emailExamSlotInviteInstruction": "Please register on the website via the Dashboard / Exams menu.",
+  "emailExamSlotInviteButton": "Register for the exam",
   "emailExamStartedSubject": "HSR – Final exam started",
   "emailExamStartedTitle": "Exam started!",
   "emailExamStartedBody": "The {exam} exam session has just started.",

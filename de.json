@@ -1152,6 +1152,7 @@
   "emailExamSlotInviteTitle": "Prüfungstermin",
   "emailExamSlotInviteBody": "Ein neuer Termin für die Abschlussprüfung ist verfügbar: {date}.",
   "emailExamSlotInviteInstruction": "Bitte melde dich auf der Website über Dashboard / Prüfungen an.",
+  "emailExamSlotInviteButton": "Für die Prüfung anmelden",
   "emailExamStartedSubject": "HSR – Abschlussprüfung hat begonnen",
   "emailExamStartedTitle": "Prüfung hat begonnen!",
   "emailExamStartedBody": "Der Prüfungstermin {exam} hat jetzt begonnen.",
