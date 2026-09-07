@@ -2220,5 +2220,6 @@
   "emailTrainingRemovalReasonSupervision": "you did not complete the {required} required supervisions within the {days} days you had after the closing exam.",
   "afkTrue": "AFK status enabled successfully.",
   "afkFalse": "AFK status disabled successfully.",
-  "afkNoPermission": "You do not have permission to set your AFK status."
+  "afkNoPermission": "You do not have permission to set your AFK status.",
+  "afkTrueForMention": "{user} is currently AFK. Please do not ping this user because it is not allowed."
 }

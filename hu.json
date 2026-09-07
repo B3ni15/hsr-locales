@@ -2220,5 +2220,6 @@
   "emailTrainingRemovalReasonSupervision": "a záróvizsga után nem teljesítetted a(z) {required} felügyeleti szolgálatot a rendelkezésre álló {days} napban.",
   "afkTrue": "Sikeresen beállítottad az afk státuszt.",
   "afkFalse": "Sikeresen kikapcsoltad az afk státuszt.",
-  "afkNoPermission": "Nincs jogod az afk státusz beállításához."
+  "afkNoPermission": "Nincs jogod az afk státusz beállításához.",
+  "afkTrueForMention": "{user} jelenleg AFK státuszban van. Kérlek, ne pingeld ezt a felhasználót, mert ez nem engedélyezett."
 }
