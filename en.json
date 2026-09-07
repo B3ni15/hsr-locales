@@ -2227,5 +2227,7 @@
   "afkTrue": "AFK status enabled successfully.",
   "afkFalse": "AFK status disabled successfully.",
   "afkNoPermission": "You do not have permission to set your AFK status.",
-  "afkTrueForMention": "{user} is currently AFK. Please do not ping this user because it is not allowed."
+  "afkTrueForMention": "{user} is currently AFK. Please do not ping this user because it is not allowed.",
+  "afkMentionDMTitle": "🔕 Don't ping the AFK user",
+  "afkMentionDMDesc": "{user} is currently AFK. Please don't ping them until they're back."
 }

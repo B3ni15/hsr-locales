@@ -2212,5 +2212,7 @@
   "afkTrue": "Sikeresen beállítottad az afk státuszt.",
   "afkFalse": "Sikeresen kikapcsoltad az afk státuszt.",
   "afkNoPermission": "Nincs jogod az afk státusz beállításához.",
-  "afkTrueForMention": "{user} jelenleg AFK státuszban van. Kérlek, ne pingeld ezt a felhasználót, mert ez nem engedélyezett."
+  "afkTrueForMention": "{user} jelenleg AFK státuszban van. Kérlek, ne pingeld ezt a felhasználót, mert ez nem engedélyezett.",
+  "afkMentionDMTitle": "🔕 Ne pingeld az AFK felhasználót",
+  "afkMentionDMDesc": "{user} jelenleg AFK státuszban van. Kérlek, ne pingeld, amíg vissza nem tér."
 }
