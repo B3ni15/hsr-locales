@@ -2217,5 +2217,8 @@
   "emailTrainingSupervisionWarningBody": "Emlékeztetőül: csak {days} napod maradt a(z) {program} képzés felügyeleti szakaszának teljesítésére.",
   "emailTrainingSupervisionWarningInstruction": "Eddig {done}/{required} sikeres felügyeleti szolgálatod van. Kérjük, egyeztess oktatóval, és teljesítsd a hiányzó alkalmakat a határidő előtt.",
   "emailTrainingSupervisionWarningConsequence": "Ha a határidőig nem teljesíted a felügyeleti szolgálatokat, a(z) {program} Discord rangod automatikusan eltávolításra kerül, és kikerülsz a képzési rendszerből.",
-  "emailTrainingRemovalReasonSupervision": "a záróvizsga után nem teljesítetted a(z) {required} felügyeleti szolgálatot a rendelkezésre álló {days} napban."
+  "emailTrainingRemovalReasonSupervision": "a záróvizsga után nem teljesítetted a(z) {required} felügyeleti szolgálatot a rendelkezésre álló {days} napban.",
+  "afkTrue": "Sikeresen beállítottad az afk státuszt.",
+  "afkFalse": "Sikeresen kikapcsoltad az afk státuszt.",
+  "afkNoPermission": "Nincs jogod az afk státusz beállításához."
 }

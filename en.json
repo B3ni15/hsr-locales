@@ -2217,5 +2217,8 @@
   "emailTrainingSupervisionWarningBody": "Reminder: you only have {days} days left to finish the supervision stage of the {program} programme.",
   "emailTrainingSupervisionWarningInstruction": "You have {done} of {required} passed supervisions so far. Please arrange the remaining sessions with an instructor before the deadline.",
   "emailTrainingSupervisionWarningConsequence": "If you do not complete the supervisions by the deadline, your {program} Discord role is removed automatically and you are dropped from the training system.",
-  "emailTrainingRemovalReasonSupervision": "you did not complete the {required} required supervisions within the {days} days you had after the closing exam."
+  "emailTrainingRemovalReasonSupervision": "you did not complete the {required} required supervisions within the {days} days you had after the closing exam.",
+  "afkTrue": "AFK status enabled successfully.",
+  "afkFalse": "AFK status disabled successfully.",
+  "afkNoPermission": "You do not have permission to set your AFK status."
 }

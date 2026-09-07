@@ -2202,5 +2202,8 @@
   "emailTrainingSupervisionWarningBody": "Zur Erinnerung: Dir bleiben nur noch {days} Tage, um die Aufsichtsphase der Ausbildung {program} abzuschließen.",
   "emailTrainingSupervisionWarningInstruction": "Du hast bisher {done} von {required} bestandenen Aufsichtsfahrten. Bitte vereinbare die fehlenden Termine vor Ablauf der Frist mit einem Ausbilder.",
   "emailTrainingSupervisionWarningConsequence": "Wenn du die Aufsichtsfahrten nicht bis zum Fristende abschließt, wird deine {program}-Discord-Rolle automatisch entfernt und du scheidest aus dem Ausbildungssystem aus.",
-  "emailTrainingRemovalReasonSupervision": "du hast die {required} erforderlichen Aufsichtsfahrten nicht innerhalb der {days} Tage nach der Abschlussprüfung absolviert."
+  "emailTrainingRemovalReasonSupervision": "du hast die {required} erforderlichen Aufsichtsfahrten nicht innerhalb der {days} Tage nach der Abschlussprüfung absolviert.",
+  "afkTrue": "Der AFK-Status wurde erfolgreich aktiviert.",
+  "afkFalse": "Der AFK-Status wurde erfolgreich deaktiviert.",
+  "afkNoPermission": "Du hast keine Berechtigung, deinen AFK-Status zu setzen."
 }
