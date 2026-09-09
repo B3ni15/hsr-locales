@@ -2265,5 +2265,12 @@
   "emailDutyDayPraise": "{n} Kolleg:innen haben sich für deine Arbeit bedankt.",
   "emailDutyDayBadges": "Neues Abzeichen: {list}",
   "emailDutyDayLevel": "Aktuelles Level: {level}",
-  "emailDutyDayFooter": "Du erhältst diese E-Mail, weil du heute Dienst geleistet hast."
+  "emailDutyDayFooter": "Du erhältst diese E-Mail, weil du heute Dienst geleistet hast.",
+  "translationMachineNotice": "Maschinelle Übersetzung. Originalsprache: {language}.",
+  "translationShowOriginal": "Original anzeigen",
+  "translationShowTranslation": "Übersetzung anzeigen",
+  "translationExamCaution": "Wenn die Frage unklar ist, sieh dir das Original an.",
+  "translationLanguageHu": "Ungarisch",
+  "translationLanguageEn": "Englisch",
+  "translationLanguageDe": "Deutsch"
 }

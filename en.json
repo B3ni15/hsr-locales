@@ -2280,5 +2280,12 @@
   "emailDutyDayPraise": "{n} colleagues thanked you for today's work.",
   "emailDutyDayBadges": "New badge: {list}",
   "emailDutyDayLevel": "Current level: {level}",
-  "emailDutyDayFooter": "You are getting this because you worked a duty today."
+  "emailDutyDayFooter": "You are getting this because you worked a duty today.",
+  "translationMachineNotice": "Machine translation. Original language: {language}.",
+  "translationShowOriginal": "Show original",
+  "translationShowTranslation": "Show translation",
+  "translationExamCaution": "If the question reads oddly, check the original wording.",
+  "translationLanguageHu": "Hungarian",
+  "translationLanguageEn": "English",
+  "translationLanguageDe": "German"
 }

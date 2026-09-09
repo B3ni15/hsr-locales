@@ -2280,5 +2280,12 @@
   "emailDutyDayPraise": "{n} kollégád mondott köszönetet a mai munkádért.",
   "emailDutyDayBadges": "Új jelvényed: {list}",
   "emailDutyDayLevel": "Jelenlegi szint: {level}",
-  "emailDutyDayFooter": "Ezt a levelet azért kaptad, mert ma szolgálatot teljesítettél."
+  "emailDutyDayFooter": "Ezt a levelet azért kaptad, mert ma szolgálatot teljesítettél.",
+  "translationMachineNotice": "Gépi fordítás. Eredeti nyelv: {language}.",
+  "translationShowOriginal": "Eredeti megjelenítése",
+  "translationShowTranslation": "Fordítás megjelenítése",
+  "translationExamCaution": "Ha a kérdés nem egyértelmű, nézd meg az eredetit.",
+  "translationLanguageHu": "magyar",
+  "translationLanguageEn": "angol",
+  "translationLanguageDe": "német"
 }
