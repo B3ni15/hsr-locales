@@ -2266,10 +2266,10 @@
   "emailDutyDayBadges": "Neues Abzeichen: {list}",
   "emailDutyDayLevel": "Aktuelles Level: {level}",
   "emailDutyDayFooter": "Du erhältst diese E-Mail, weil du heute Dienst geleistet hast.",
-  "translationMachineNotice": "Maschinelle Übersetzung. Originalsprache: {language}.",
+  "translationMachineNotice": "Maschinelle Übersetzung · Original: {language}",
   "translationShowOriginal": "Original anzeigen",
   "translationShowTranslation": "Übersetzung anzeigen",
-  "translationExamCaution": "Wenn die Frage unklar ist, sieh dir das Original an.",
+  "translationExamCaution": "im Zweifel das Original prüfen",
   "translationLanguageHu": "Ungarisch",
   "translationLanguageEn": "Englisch",
   "translationLanguageDe": "Deutsch"

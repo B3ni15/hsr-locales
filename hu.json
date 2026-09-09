@@ -2281,10 +2281,10 @@
   "emailDutyDayBadges": "Új jelvényed: {list}",
   "emailDutyDayLevel": "Jelenlegi szint: {level}",
   "emailDutyDayFooter": "Ezt a levelet azért kaptad, mert ma szolgálatot teljesítettél.",
-  "translationMachineNotice": "Gépi fordítás. Eredeti nyelv: {language}.",
+  "translationMachineNotice": "Gépi fordítás · eredeti: {language}",
   "translationShowOriginal": "Eredeti megjelenítése",
   "translationShowTranslation": "Fordítás megjelenítése",
-  "translationExamCaution": "Ha a kérdés nem egyértelmű, nézd meg az eredetit.",
+  "translationExamCaution": "kétség esetén nézd meg az eredetit",
   "translationLanguageHu": "magyar",
   "translationLanguageEn": "angol",
   "translationLanguageDe": "német"

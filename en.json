@@ -2281,10 +2281,10 @@
   "emailDutyDayBadges": "New badge: {list}",
   "emailDutyDayLevel": "Current level: {level}",
   "emailDutyDayFooter": "You are getting this because you worked a duty today.",
-  "translationMachineNotice": "Machine translation. Original language: {language}.",
+  "translationMachineNotice": "Machine translation · original: {language}",
   "translationShowOriginal": "Show original",
   "translationShowTranslation": "Show translation",
-  "translationExamCaution": "If the question reads oddly, check the original wording.",
+  "translationExamCaution": "if in doubt, check the original",
   "translationLanguageHu": "Hungarian",
   "translationLanguageEn": "English",
   "translationLanguageDe": "German"
