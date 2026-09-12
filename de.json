@@ -2310,5 +2310,7 @@
   "emailTrainingMovementDays": "{days} Tage",
   "emailTrainingMovementWaitingDays": "seit {days} Tagen",
   "emailTrainingMovementButton": "Auszubildende öffnen",
-  "emailTrainingMovementFooter": "Diese E-Mail wird nur an Tagen versendet, an denen sich tatsächlich etwas bewegt hat."
+  "emailTrainingMovementFooter": "Diese E-Mail wird nur an Tagen versendet, an denen sich tatsächlich etwas bewegt hat.",
+  "examSlotAddToCalendar": "Zum Kalender",
+  "emailExamSlotCalendarButton": "Zum Kalender hinzufügen"
 }

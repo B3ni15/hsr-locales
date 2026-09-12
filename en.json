@@ -2325,5 +2325,7 @@
   "emailTrainingMovementDays": "{days} days",
   "emailTrainingMovementWaitingDays": "for {days} days",
   "emailTrainingMovementButton": "Open trainees",
-  "emailTrainingMovementFooter": "This letter only goes out on a day that actually moved somebody."
+  "emailTrainingMovementFooter": "This letter only goes out on a day that actually moved somebody.",
+  "examSlotAddToCalendar": "Add to calendar",
+  "emailExamSlotCalendarButton": "Add to your calendar"
 }

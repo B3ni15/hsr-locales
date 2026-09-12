@@ -2310,5 +2310,7 @@
   "emailTrainingMovementDays": "{days} nap",
   "emailTrainingMovementWaitingDays": "{days} napja",
   "emailTrainingMovementButton": "Tanulók megnyitása",
-  "emailTrainingMovementFooter": "Ez a levél csak akkor megy ki, ha aznap tényleg történt mozgás."
+  "emailTrainingMovementFooter": "Ez a levél csak akkor megy ki, ha aznap tényleg történt mozgás.",
+  "examSlotAddToCalendar": "Naptárba",
+  "emailExamSlotCalendarButton": "Hozzáadás a naptárhoz"
 }
