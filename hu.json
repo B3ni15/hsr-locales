@@ -2403,5 +2403,14 @@
   "profileEmployeeOfWeek": "A hét dolgozója",
   "profileEmployeeOfMonth": "A hónap dolgozója",
   "profileEmployeeWeekCount": "{count}× a hét dolgozója",
-  "profileEmployeeMonthCount": "{count}× a hónap dolgozója"
+  "profileEmployeeMonthCount": "{count}× a hónap dolgozója",
+  "profileColleagues": "Kikkel dolgozik együtt",
+  "profileColleaguesShifts": "{count} közös műszak",
+  "profileTimeline": "Karrier",
+  "timelineJoined": "Csatlakozás a HSR-hez",
+  "timelineFirstDuty": "Első szolgálat",
+  "timelineProgramStarted": "Képzés elkezdve: {program}",
+  "timelineClosingExamPassed": "Záróvizsga letéve: {program}",
+  "timelineBadge": "Jelvény: {name}",
+  "dutyStreak": "hét sorozatban"
 }

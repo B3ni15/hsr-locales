@@ -2403,5 +2403,14 @@
   "profileEmployeeOfWeek": "Worker of the week",
   "profileEmployeeOfMonth": "Worker of the month",
   "profileEmployeeWeekCount": "Worker of the week {count}×",
-  "profileEmployeeMonthCount": "Worker of the month {count}×"
+  "profileEmployeeMonthCount": "Worker of the month {count}×",
+  "profileColleagues": "Who they work with",
+  "profileColleaguesShifts": "{count} shifts together",
+  "profileTimeline": "Career",
+  "timelineJoined": "Joined HSR",
+  "timelineFirstDuty": "First duty",
+  "timelineProgramStarted": "Training started: {program}",
+  "timelineClosingExamPassed": "Closing exam passed: {program}",
+  "timelineBadge": "Badge: {name}",
+  "dutyStreak": "week streak"
 }

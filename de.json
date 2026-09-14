@@ -2388,5 +2388,14 @@
   "profileEmployeeOfWeek": "Mitarbeiter der Woche",
   "profileEmployeeOfMonth": "Mitarbeiter des Monats",
   "profileEmployeeWeekCount": "{count}× Mitarbeiter der Woche",
-  "profileEmployeeMonthCount": "{count}× Mitarbeiter des Monats"
+  "profileEmployeeMonthCount": "{count}× Mitarbeiter des Monats",
+  "profileColleagues": "Mit wem sie arbeiten",
+  "profileColleaguesShifts": "{count} gemeinsame Schichten",
+  "profileTimeline": "Laufbahn",
+  "timelineJoined": "HSR beigetreten",
+  "timelineFirstDuty": "Erster Dienst",
+  "timelineProgramStarted": "Ausbildung begonnen: {program}",
+  "timelineClosingExamPassed": "Abschlussprüfung bestanden: {program}",
+  "timelineBadge": "Abzeichen: {name}",
+  "dutyStreak": "Wochen in Folge"
 }
