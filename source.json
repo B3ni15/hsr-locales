@@ -2381,5 +2381,12 @@
   "settingsAccountSwapContinue": "Értem, folytatom",
   "settingsAccountOtherDevices": "A többi eszközödről kijelentkeztetünk.",
   "settingsAccountLastIdentity": "Ez az egyetlen összekötött fiókod — leválasztás után nem tudnál belépni.",
-  "settingsAccountUnlinkFailed": "Nem sikerült a leválasztás. Próbáld újra."
+  "settingsAccountUnlinkFailed": "Nem sikerült a leválasztás. Próbáld újra.",
+  "employeeOfWeekTitle": "Te vagy a hét dolgozója!",
+  "employeeOfMonthTitle": "Te vagy a hónap dolgozója!",
+  "employeeOfPeriodNotification": "Te tettél a legtöbbet a pályán. Köszönjük a munkádat!",
+  "profileEmployeeOfWeek": "A hét dolgozója",
+  "profileEmployeeOfMonth": "A hónap dolgozója",
+  "profileEmployeeWeekCount": "{count}× a hét dolgozója",
+  "profileEmployeeMonthCount": "{count}× a hónap dolgozója"
 }

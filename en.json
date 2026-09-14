@@ -2396,5 +2396,12 @@
   "settingsAccountSwapContinue": "I understand, continue",
   "settingsAccountOtherDevices": "You will be signed out on your other devices.",
   "settingsAccountLastIdentity": "This is your only linked account — you would not be able to sign in afterwards.",
-  "settingsAccountUnlinkFailed": "Could not detach the account. Please try again."
+  "settingsAccountUnlinkFailed": "Could not detach the account. Please try again.",
+  "employeeOfWeekTitle": "You are the worker of the week!",
+  "employeeOfMonthTitle": "You are the worker of the month!",
+  "employeeOfPeriodNotification": "You did the most out on the railway. Thank you for your work!",
+  "profileEmployeeOfWeek": "Worker of the week",
+  "profileEmployeeOfMonth": "Worker of the month",
+  "profileEmployeeWeekCount": "Worker of the week {count}×",
+  "profileEmployeeMonthCount": "Worker of the month {count}×"
 }

@@ -2381,5 +2381,12 @@
   "settingsAccountSwapContinue": "Verstanden, fortfahren",
   "settingsAccountOtherDevices": "Auf deinen anderen Geräten wirst du abgemeldet.",
   "settingsAccountLastIdentity": "Das ist dein einziges verknüpftes Konto — danach könntest du dich nicht mehr anmelden.",
-  "settingsAccountUnlinkFailed": "Das Konto konnte nicht gelöst werden. Bitte versuche es erneut."
+  "settingsAccountUnlinkFailed": "Das Konto konnte nicht gelöst werden. Bitte versuche es erneut.",
+  "employeeOfWeekTitle": "Du bist Mitarbeiter der Woche!",
+  "employeeOfMonthTitle": "Du bist Mitarbeiter des Monats!",
+  "employeeOfPeriodNotification": "Du hast auf der Strecke am meisten geleistet. Danke für deine Arbeit!",
+  "profileEmployeeOfWeek": "Mitarbeiter der Woche",
+  "profileEmployeeOfMonth": "Mitarbeiter des Monats",
+  "profileEmployeeWeekCount": "{count}× Mitarbeiter der Woche",
+  "profileEmployeeMonthCount": "{count}× Mitarbeiter des Monats"
 }
