@@ -2412,5 +2412,12 @@
   "timelineProgramStarted": "Training started: {program}",
   "timelineClosingExamPassed": "Closing exam passed: {program}",
   "timelineBadge": "Badge: {name}",
-  "dutyStreak": "week streak"
+  "dutyStreak": "week streak",
+  "bugReport": "Report a problem",
+  "bugReportTitle": "What is not working?",
+  "bugReportBody": "Describe what you did and what happened instead. We attach the page, your browser and your account ourselves.",
+  "bugReportPlaceholder": "For example: I pressed Start duty and got an error.",
+  "bugReportSend": "Send",
+  "bugReportSent": "Thank you, we have it. We will get in touch if we need more.",
+  "bugReportFailed": "Could not send it. Please open a ticket on Discord instead."
 }

@@ -2397,5 +2397,12 @@
   "timelineProgramStarted": "Ausbildung begonnen: {program}",
   "timelineClosingExamPassed": "Abschlussprüfung bestanden: {program}",
   "timelineBadge": "Abzeichen: {name}",
-  "dutyStreak": "Wochen in Folge"
+  "dutyStreak": "Wochen in Folge",
+  "bugReport": "Problem melden",
+  "bugReportTitle": "Was funktioniert nicht?",
+  "bugReportBody": "Beschreibe, was du getan hast und was stattdessen passiert ist. Die Seite, deinen Browser und dein Konto hängen wir selbst an.",
+  "bugReportPlaceholder": "Zum Beispiel: Ich habe auf Dienst beginnen geklickt und eine Fehlermeldung bekommen.",
+  "bugReportSend": "Senden",
+  "bugReportSent": "Danke, wir haben es. Wir melden uns, falls wir mehr brauchen.",
+  "bugReportFailed": "Konnte nicht gesendet werden. Bitte öffne stattdessen ein Ticket auf Discord."
 }
