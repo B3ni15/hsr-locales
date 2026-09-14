@@ -2404,5 +2404,7 @@
   "bugReportPlaceholder": "Például: rákattintottam a Szolgálat indítása gombra, és hibaüzenetet kaptam.",
   "bugReportSend": "Elküldöm",
   "bugReportSent": "Köszönjük, megkaptuk. Ha kell, keresni fogunk.",
-  "bugReportFailed": "Nem sikerült elküldeni. Nyiss inkább egy ticketet a Discordon."
+  "bugReportFailed": "Nem sikerült elküldeni. Nyiss inkább egy ticketet a Discordon.",
+  "anniversaryOne": "Ma egy éve csatlakoztál a HSR-hez. Köszönjük, hogy velünk vagy!",
+  "anniversaryMany": "Ma {years} éve csatlakoztál a HSR-hez. Köszönjük, hogy velünk vagy!"
 }

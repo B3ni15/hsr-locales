@@ -2404,5 +2404,7 @@
   "bugReportPlaceholder": "Zum Beispiel: Ich habe auf Dienst beginnen geklickt und eine Fehlermeldung bekommen.",
   "bugReportSend": "Senden",
   "bugReportSent": "Danke, wir haben es. Wir melden uns, falls wir mehr brauchen.",
-  "bugReportFailed": "Konnte nicht gesendet werden. Bitte öffne stattdessen ein Ticket auf Discord."
+  "bugReportFailed": "Konnte nicht gesendet werden. Bitte öffne stattdessen ein Ticket auf Discord.",
+  "anniversaryOne": "Heute vor einem Jahr bist du zur HSR gekommen. Danke, dass du dabei bist!",
+  "anniversaryMany": "Heute vor {years} Jahren bist du zur HSR gekommen. Danke, dass du dabei bist!"
 }
