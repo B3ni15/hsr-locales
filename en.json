@@ -1421,6 +1421,7 @@
   "botTicketReopenedTitle": "🎫 Ticket Reopened",
   "botTicketReopenedDesc": "**{owner}**'s ticket\n\nReopened by **{name}**",
   "botErrServerOnly": "❌ This command can only be used in a server.",
+  "botWikiSuggestionsTitle": "📖 This is written down in the wiki",
   "botProfilNoAccount": "This member has no HSR account.",
   "botProfilNoAccountSelf": "You do not have an HSR account yet. Register on the website!",
   "botProfilPrivate": "This profile is not public.",

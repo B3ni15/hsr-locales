@@ -1413,6 +1413,7 @@
   "botTicketReopenedTitle": "🎫 Ticket újranyitva",
   "botTicketReopenedDesc": "**{owner}** ticketje\n\nÚjranyitotta: **{name}**",
   "botErrServerOnly": "❌ Ez a parancs csak szerveren belül használható.",
+  "botWikiSuggestionsTitle": "📖 Ez le van írva a wikiben",
   "botProfilNoAccount": "Ennek a tagnak nincs HSR fiókja.",
   "botProfilNoAccountSelf": "Neked még nincs HSR fiókod. Regisztrálj a weboldalon!",
   "botProfilPrivate": "Ez a profil nem nyilvános.",

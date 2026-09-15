@@ -1413,6 +1413,7 @@
   "botTicketReopenedTitle": "🎫 Ticket wieder geöffnet",
   "botTicketReopenedDesc": "Ticket von **{owner}**\n\nWieder geöffnet von: **{name}**",
   "botErrServerOnly": "❌ Dieser Befehl kann nur innerhalb eines Servers verwendet werden.",
+  "botWikiSuggestionsTitle": "📖 Das steht im Wiki",
   "botProfilNoAccount": "Dieses Mitglied hat kein HSR-Konto.",
   "botProfilNoAccountSelf": "Du hast noch kein HSR-Konto. Registriere dich auf der Website!",
   "botProfilPrivate": "Dieses Profil ist nicht öffentlich.",
