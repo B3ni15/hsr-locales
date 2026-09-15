@@ -2406,5 +2406,12 @@
   "bugReportSent": "Danke, wir haben es. Wir melden uns, falls wir mehr brauchen.",
   "bugReportFailed": "Konnte nicht gesendet werden. Bitte öffne stattdessen ein Ticket auf Discord.",
   "anniversaryOne": "Heute vor einem Jahr bist du zur HSR gekommen. Danke, dass du dabei bist!",
-  "anniversaryMany": "Heute vor {years} Jahren bist du zur HSR gekommen. Danke, dass du dabei bist!"
+  "anniversaryMany": "Heute vor {years} Jahren bist du zur HSR gekommen. Danke, dass du dabei bist!",
+  "settingsDataTitle": "Meine Daten herunterladen",
+  "settingsDataBody": "Alles, was wir über dich speichern, in einer Datei: dein Konto, deine Dienste, deine Abzeichen, dein Lob und die Einträge über dich. Passwörter und Anmelde-Tokens sind nicht enthalten.",
+  "settingsDataDownload": "Herunterladen",
+  "profileCompare": "Vergleichen",
+  "profileCompareTitle": "Wer hat auf der Strecke was geleistet",
+  "profileCompareHint": "Die Zahlen beider Mitglieder nebeneinander. Nur die Bereiche, die beide freigeben, werden gezeigt.",
+  "profileCompareNothing": "Nichts zu vergleichen: beide haben ihre Statistiken verborgen."
 }

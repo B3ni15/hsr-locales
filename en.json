@@ -2421,5 +2421,12 @@
   "bugReportSent": "Thank you, we have it. We will get in touch if we need more.",
   "bugReportFailed": "Could not send it. Please open a ticket on Discord instead.",
   "anniversaryOne": "You joined HSR a year ago today. Thank you for being here!",
-  "anniversaryMany": "You joined HSR {years} years ago today. Thank you for being here!"
+  "anniversaryMany": "You joined HSR {years} years ago today. Thank you for being here!",
+  "settingsDataTitle": "Download my data",
+  "settingsDataBody": "Everything we store about you in one file: your account, your duties, your badges, your praise and the entries about you. No passwords or sign-in tokens are included.",
+  "settingsDataDownload": "Download",
+  "profileCompare": "Compare",
+  "profileCompareTitle": "Who did what out on the railway",
+  "profileCompareHint": "The two members' numbers side by side. Only the sections both of them share are shown.",
+  "profileCompareNothing": "Nothing to compare: both of them have hidden their statistics."
 }

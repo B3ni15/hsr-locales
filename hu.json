@@ -2421,5 +2421,12 @@
   "bugReportSent": "Köszönjük, megkaptuk. Ha kell, keresni fogunk.",
   "bugReportFailed": "Nem sikerült elküldeni. Nyiss inkább egy ticketet a Discordon.",
   "anniversaryOne": "Ma egy éve csatlakoztál a HSR-hez. Köszönjük, hogy velünk vagy!",
-  "anniversaryMany": "Ma {years} éve csatlakoztál a HSR-hez. Köszönjük, hogy velünk vagy!"
+  "anniversaryMany": "Ma {years} éve csatlakoztál a HSR-hez. Köszönjük, hogy velünk vagy!",
+  "settingsDataTitle": "Adataim letöltése",
+  "settingsDataBody": "Egy fájlban mindent, amit rólad tárolunk: a fiókod, a szolgálataid, a jelvényeid, a dicséreteid és a rólad szóló bejegyzések. Jelszavak és belépési tokenek nincsenek benne.",
+  "settingsDataDownload": "Letöltés",
+  "profileCompare": "Összehasonlítás",
+  "profileCompareTitle": "Ki mit tett a pályán",
+  "profileCompareHint": "A két tag számai egymás mellett. Csak azok a rovatok szerepelnek, amiket mindketten megosztanak.",
+  "profileCompareNothing": "Nincs mit összehasonlítani: mindketten elrejtették a statisztikáikat."
 }
