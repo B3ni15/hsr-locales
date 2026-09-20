@@ -2522,5 +2522,17 @@
   "profileCompare": "Összehasonlítás",
   "profileCompareTitle": "Ki mit tett a pályán",
   "profileCompareHint": "A két tag számai egymás mellett. Csak azok a rovatok szerepelnek, amiket mindketten megosztanak.",
-  "profileCompareNothing": "Nincs mit összehasonlítani: mindketten elrejtették a statisztikáikat."
+  "profileCompareNothing": "Nincs mit összehasonlítani: mindketten elrejtették a statisztikáikat.",
+  "botUserFieldStats": "🎮 Statisztika",
+  "botUserLabelPlayTime": "Játékidő",
+  "botUserLabelDistance": "Megtett táv",
+  "botUserFieldTraining": "📚 Aktív képzések",
+  "botUserLabelSince": "kezdete:",
+  "botUserFieldSuspensions": "⛔ Aktív szolgálati eltiltások",
+  "botUserSuspensionOpenEnded": "határozatlan ideig",
+  "botUserFieldAdminPanel": "🔗 Admin felület",
+  "botUserOpenInAdminPanel": "Megnyitás az admin felületen",
+  "botUserResetErrConfirm": "❌ Ez törli a felügyeleteket és a képzési adatokat, visszavonás nélkül. Erősítsd meg a `confirm` opcióval (állítsd `true`-ra).",
+  "botUserResetDone": "✅ **{user}** visszaállítva: {supervisions} felügyelet törölve, {terminations} korábbi kizárás adatai véglegesítve most (helyett a 7 nap várakozás helyett) — {attempts} vizsgapróbálkozás, {registrations} vizsgaidőpont-jelentkezés, {jobs} felvételi feladat törölve.",
+  "botUserResetErrFailed": "❌ Hiba történt a felhasználó visszaállítása közben."
 }

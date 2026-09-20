@@ -2537,5 +2537,17 @@
   "profileCompare": "Compare",
   "profileCompareTitle": "Who did what out on the railway",
   "profileCompareHint": "The two members' numbers side by side. Only the sections both of them share are shown.",
-  "profileCompareNothing": "Nothing to compare: both of them have hidden their statistics."
+  "profileCompareNothing": "Nothing to compare: both of them have hidden their statistics.",
+  "botUserFieldStats": "🎮 Stats",
+  "botUserLabelPlayTime": "Play Time",
+  "botUserLabelDistance": "Distance",
+  "botUserFieldTraining": "📚 Active Training",
+  "botUserLabelSince": "since",
+  "botUserFieldSuspensions": "⛔ Active Service Suspensions",
+  "botUserSuspensionOpenEnded": "open-ended",
+  "botUserFieldAdminPanel": "🔗 Admin Panel",
+  "botUserOpenInAdminPanel": "Open in admin panel",
+  "botUserResetErrConfirm": "❌ This deletes supervisions and training data with no undo. Confirm with the `confirm` option set to `true`.",
+  "botUserResetDone": "✅ **{user}** reset: {supervisions} supervision(s) deleted, {terminations} past removal(s) finalized now instead of after the 7-day wait — {attempts} exam attempt(s), {registrations} slot registration(s), {jobs} admission job(s) cleared.",
+  "botUserResetErrFailed": "❌ An error occurred while resetting the user."
 }

@@ -2522,5 +2522,17 @@
   "profileCompare": "Vergleichen",
   "profileCompareTitle": "Wer hat auf der Strecke was geleistet",
   "profileCompareHint": "Die Zahlen beider Mitglieder nebeneinander. Nur die Bereiche, die beide freigeben, werden gezeigt.",
-  "profileCompareNothing": "Nichts zu vergleichen: beide haben ihre Statistiken verborgen."
+  "profileCompareNothing": "Nichts zu vergleichen: beide haben ihre Statistiken verborgen.",
+  "botUserFieldStats": "🎮 Statistik",
+  "botUserLabelPlayTime": "Spielzeit",
+  "botUserLabelDistance": "Strecke",
+  "botUserFieldTraining": "📚 Aktive Ausbildungen",
+  "botUserLabelSince": "seit",
+  "botUserFieldSuspensions": "⛔ Aktive Dienstsperren",
+  "botUserSuspensionOpenEnded": "unbefristet",
+  "botUserFieldAdminPanel": "🔗 Admin-Panel",
+  "botUserOpenInAdminPanel": "Im Admin-Panel öffnen",
+  "botUserResetErrConfirm": "❌ Dies löscht Supervisionen und Ausbildungsdaten unwiderruflich. Bestätige mit der Option `confirm`, gesetzt auf `true`.",
+  "botUserResetDone": "✅ **{user}** zurückgesetzt: {supervisions} Supervision(en) gelöscht, {terminations} frühere Entfernung(en) jetzt statt nach 7 Tagen abgeschlossen — {attempts} Prüfungsversuch(e), {registrations} Prüfungstermin-Anmeldung(en), {jobs} Aufnahme-Aufgabe(n) bereinigt.",
+  "botUserResetErrFailed": "❌ Beim Zurücksetzen des Benutzers ist ein Fehler aufgetreten."
 }
