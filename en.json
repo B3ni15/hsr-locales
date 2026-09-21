@@ -2695,5 +2695,7 @@
   "profileLocomotiveImageType": "JPEG, PNG or WebP only.",
   "profileLocomotiveImageTooLarge": "The photo may be at most 5MB.",
   "forumMoreActions": "More actions",
-  "forumAccountIncomplete": "Finish linking your account before posting."
+  "forumAccountIncomplete": "Finish linking your account before posting.",
+  "forumSuggestions": "Who to follow",
+  "forumAnnouncement": "Announcement"
 }

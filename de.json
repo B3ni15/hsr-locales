@@ -2680,5 +2680,7 @@
   "profileLocomotiveImageType": "Nur JPEG, PNG oder WebP.",
   "profileLocomotiveImageTooLarge": "Das Foto darf höchstens 5 MB groß sein.",
   "forumMoreActions": "Weitere Aktionen",
-  "forumAccountIncomplete": "Verknüpfe dein Konto fertig, bevor du postest."
+  "forumAccountIncomplete": "Verknüpfe dein Konto fertig, bevor du postest.",
+  "forumSuggestions": "Wem folgen",
+  "forumAnnouncement": "Ankündigung"
 }
