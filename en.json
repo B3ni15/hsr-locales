@@ -2722,5 +2722,6 @@
   "privS15Item5": "Not public: the interest scores we compute for feed ordering from the topics you interact with. They decay daily and are never shared with another member.",
   "privS15Item6": "Uploaded files are stored in Cloudflare R2 and served from a public address. If you share an external link (Medal, YouTube and the like), loading the player connects your browser directly to that provider, which is outside our processing.",
   "privS15Retention": "Retention: posts and their files are kept until deleted. A deleted post's text and files are removed for good. Read notifications are deleted after 7 days, unread ones after 30. Abandoned uploads that were never published are removed from storage within 24 hours.",
-  "privS15Note": "Public content can be saved or quoted by others before you delete it. Deleting removes it from our systems; we have no control over copies made elsewhere."
+  "privS15Note": "Public content can be saved or quoted by others before you delete it. Deleting removes it from our systems; we have no control over copies made elsewhere.",
+  "forumAddMediaHint": "You can also drag a file in, or paste one."
 }

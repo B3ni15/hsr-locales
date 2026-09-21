@@ -2722,5 +2722,6 @@
   "privS15Item5": "Nem nyilvános: az érdeklődési pontszámaid, amelyeket a hírfolyam sorrendjéhez számolunk abból, hogy milyen témájú posztokkal lépsz interakcióba. Ezek naponta csökkennek, és nem kerülnek át más felhasználóhoz.",
   "privS15Item6": "A feltöltött fájlokat a Cloudflare R2 tárolja, és nyilvános címről szolgáljuk ki. Ha külső linket (pl. Medal, YouTube) osztasz meg, a lejátszó betöltésekor a böngésződ közvetlenül az adott szolgáltatóhoz kapcsolódik, amelyre a mi adatkezelésünk nem terjed ki.",
   "privS15Retention": "Megőrzés: a posztok és a hozzájuk tartozó fájlok a törlésükig maradnak meg. A törölt poszt szövegét és fájljait véglegesen eltávolítjuk. Az elolvasott értesítéseket 7 nap, az olvasatlanokat 30 nap után töröljük. A soha nem publikált, félbehagyott feltöltéseket legkésőbb 24 órán belül töröljük a tárhelyről.",
-  "privS15Note": "A nyilvános tartalmat mások lementhetik vagy idézhetik, mielőtt törölnéd. A törlés a mi rendszerünkből távolítja el a tartalmat, a máshol készült másolatokra nincs ráhatásunk."
+  "privS15Note": "A nyilvános tartalmat mások lementhetik vagy idézhetik, mielőtt törölnéd. A törlés a mi rendszerünkből távolítja el a tartalmat, a máshol készült másolatokra nincs ráhatásunk.",
+  "forumAddMediaHint": "Be is húzhatod vagy beillesztheted a fájlt."
 }

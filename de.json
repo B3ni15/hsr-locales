@@ -2707,5 +2707,6 @@
   "privS15Item5": "Nicht öffentlich: die Interessenwerte, die wir aus deinen Interaktionen für die Feed-Reihenfolge berechnen. Sie klingen täglich ab und werden nie an andere weitergegeben.",
   "privS15Item6": "Hochgeladene Dateien liegen in Cloudflare R2 und werden über eine öffentliche Adresse ausgeliefert. Beim Laden eines eingebetteten Players (Medal, YouTube usw.) verbindet sich dein Browser direkt mit diesem Anbieter — außerhalb unserer Verarbeitung.",
   "privS15Retention": "Aufbewahrung: Beiträge und ihre Dateien bleiben bis zur Löschung erhalten. Text und Dateien gelöschter Beiträge werden endgültig entfernt. Gelesene Benachrichtigungen werden nach 7 Tagen gelöscht, ungelesene nach 30. Abgebrochene, nie veröffentlichte Uploads werden binnen 24 Stunden aus dem Speicher entfernt.",
-  "privS15Note": "Öffentliche Inhalte können von anderen gespeichert oder zitiert werden, bevor du sie löschst. Das Löschen entfernt sie aus unseren Systemen; auf anderswo angefertigte Kopien haben wir keinen Einfluss."
+  "privS15Note": "Öffentliche Inhalte können von anderen gespeichert oder zitiert werden, bevor du sie löschst. Das Löschen entfernt sie aus unseren Systemen; auf anderswo angefertigte Kopien haben wir keinen Einfluss.",
+  "forumAddMediaHint": "Du kannst Dateien auch hineinziehen oder einfügen."
 }
