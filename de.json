@@ -2561,9 +2561,8 @@
   "forumUploading": "Wird hochgeladen…",
   "forumUploadFailed": "Der Upload ist fehlgeschlagen",
   "forumCharactersLeft": "Noch {count} Zeichen",
-  "forumStorageUsed": "{used} / {total} Speicher",
   "forumSelectTopics": "Themen",
-  "forumSupporterUpsell": "Unterstützer erhalten 2000 Zeichen, 1 GB Speicher und bearbeitbare Beiträge.",
+  "forumSupporterUpsell": "Unterstützer erhalten 2000 Zeichen, 1 GB pro Beitrag und bearbeitbare Beiträge.",
   "forumSignInToPost": "Zum Posten anmelden",
   "forumLike": "Gefällt mir",
   "forumRepost": "Teilen",
@@ -2633,7 +2632,7 @@
   "forumMediaMissing": "Der Upload ist nie angekommen.",
   "forumMediaNotFound": "Diese Datei wurde nicht gefunden.",
   "forumTooManyPending": "Zu viele Uploads laufen bereits.",
-  "forumQuotaExceeded": "Dein Speicher ist voll. Entferne ältere Medien.",
+  "forumQuotaExceeded": "Dieser Beitrag kann nicht so viel tragen. Wähle etwas Kleineres oder entferne eine Datei.",
   "forumEditNotAllowed": "Du kannst diesen Beitrag nicht bearbeiten.",
   "forumDeleteNotAllowed": "Du kannst diesen Beitrag nicht löschen.",
   "forumPostMissing": "Dieser Beitrag existiert nicht mehr.",
@@ -2708,5 +2707,6 @@
   "privS15Item6": "Hochgeladene Dateien liegen in Cloudflare R2 und werden über eine öffentliche Adresse ausgeliefert. Beim Laden eines eingebetteten Players (Medal, YouTube usw.) verbindet sich dein Browser direkt mit diesem Anbieter — außerhalb unserer Verarbeitung.",
   "privS15Retention": "Aufbewahrung: Beiträge und ihre Dateien bleiben bis zur Löschung erhalten. Text und Dateien gelöschter Beiträge werden endgültig entfernt. Gelesene Benachrichtigungen werden nach 7 Tagen gelöscht, ungelesene nach 30. Abgebrochene, nie veröffentlichte Uploads werden binnen 24 Stunden aus dem Speicher entfernt.",
   "privS15Note": "Öffentliche Inhalte können von anderen gespeichert oder zitiert werden, bevor du sie löschst. Das Löschen entfernt sie aus unseren Systemen; auf anderswo angefertigte Kopien haben wir keinen Einfluss.",
-  "forumAddMediaHint": "Du kannst Dateien auch hineinziehen oder einfügen."
+  "forumAddMediaHint": "Du kannst Dateien auch hineinziehen oder einfügen.",
+  "forumPostBudget": "{used} / {total} in diesem Beitrag"
 }

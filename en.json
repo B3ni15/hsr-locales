@@ -2576,9 +2576,8 @@
   "forumUploading": "Uploading…",
   "forumUploadFailed": "The upload failed",
   "forumCharactersLeft": "{count} characters left",
-  "forumStorageUsed": "{used} / {total} storage",
   "forumSelectTopics": "Topics",
-  "forumSupporterUpsell": "Supporters get 2000 characters, 1 GB of storage and editable posts.",
+  "forumSupporterUpsell": "Supporters get 2000 characters, 1 GB per post and editable posts.",
   "forumSignInToPost": "Sign in to post",
   "forumLike": "Like",
   "forumRepost": "Repost",
@@ -2648,7 +2647,7 @@
   "forumMediaMissing": "The upload never arrived.",
   "forumMediaNotFound": "That file was not found.",
   "forumTooManyPending": "Too many uploads are already in flight.",
-  "forumQuotaExceeded": "Your storage is full. Remove some older media.",
+  "forumQuotaExceeded": "This post cannot carry that much. Pick something smaller, or remove a file.",
   "forumEditNotAllowed": "You cannot edit this post.",
   "forumDeleteNotAllowed": "You cannot delete this post.",
   "forumPostMissing": "That post no longer exists.",
@@ -2723,5 +2722,6 @@
   "privS15Item6": "Uploaded files are stored in Cloudflare R2 and served from a public address. If you share an external link (Medal, YouTube and the like), loading the player connects your browser directly to that provider, which is outside our processing.",
   "privS15Retention": "Retention: posts and their files are kept until deleted. A deleted post's text and files are removed for good. Read notifications are deleted after 7 days, unread ones after 30. Abandoned uploads that were never published are removed from storage within 24 hours.",
   "privS15Note": "Public content can be saved or quoted by others before you delete it. Deleting removes it from our systems; we have no control over copies made elsewhere.",
-  "forumAddMediaHint": "You can also drag a file in, or paste one."
+  "forumAddMediaHint": "You can also drag a file in, or paste one.",
+  "forumPostBudget": "{used} / {total} in this post"
 }
