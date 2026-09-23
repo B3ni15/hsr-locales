@@ -1290,8 +1290,6 @@
   "emailInstructorWarningRevokedIntro": "Az oktatói figyelmeztetésedet felülvizsgáltuk és töröltük, így nem vezet a rangod megvonásához.",
   "emailInstructorWarningRevokedNoteLabel": "Indoklás:",
   "botHumanButtonLabel": "Beszélgetés egy emberrel",
-  "botAnswerFeedbackYes": "Segített",
-  "botAnswerFeedbackNo": "Nem segített",
   "botAnswerFeedbackThanks": "👍 Köszönjük a visszajelzést!",
   "botAnswerFeedbackNoted": "👎 Feljegyeztük. Kérünk egy embert hozzá:",
   "botFieldTrain": "Vonat",
